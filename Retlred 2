@@ -1,0 +1,10 @@
+Condición critica
+Evidencias sistemicas
+El patrón común
+Tasa de erosión
+Lever nombrado
+Causalidad del lever
+
+En el fondo ni siquiers me molesta que los planos y los pizarrones esten en algo así como un data center, me molesta la dependencia de un solo data center para funcionar hoy, aunque en realidad la existencia de ese data center es en si mismo la base fundamental para la autonomia del sistema aunque el data center falle o se desconecte, porque mientras esta operativo esta alimentando bidireccionalmente al sistema, y por ende cada día, el sistema es un poco mas real por las fricciones - impacto, y autonomo porque se distribuye esa información del data center.
+
+Yo fui uno de los catalizadores del data center, y su arquitectira 
